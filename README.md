@@ -11,7 +11,7 @@
 
 ****
 ## 目录
-* [Chinese Spelling Error Detection and Correction Based on Language Model, Pronunciation, and Shape](#Chinese Spelling Error Detection and Correction Based on Language Model, Pronunciation, and Shape)
+* [横线](#横线)
 * [标题](#标题)
 * [文本](#文本)
     * 普通文本
@@ -41,7 +41,7 @@
 * [表情](#表情)
 * [diff语法](#diff语法)
 
-### Chinese Spelling Error Detection and Correction Based on Language Model, Pronunciation, and Shape
+### 横线
 -----------
 ***、---、___可以显示横线效果
 
